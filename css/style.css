@@ -603,6 +603,7 @@ a {
 .normal-tex {
 	font-family: "Tex";
 	font-size: 30px;
+	text-align: center;
 }
 @font-face {
 	font-family: "Youre Invited";
