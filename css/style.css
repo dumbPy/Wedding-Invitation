@@ -578,8 +578,13 @@ a {
 	letter-spacing: 0pt;
 }
 
+@font-face {
+	font-family: "Edwardian";
+	src: url("../assets/fonts/edwardian-script-itc-regular.ttf");
+}
+
 .welcome {
-	font-family: "Edwardian Script ITC";
+	font-family: "Edwardian";
 	font-size: 30px;
 	text-align: center;}
 
