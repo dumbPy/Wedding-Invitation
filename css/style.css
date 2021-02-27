@@ -577,3 +577,34 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+
+.welcome {
+	font-family: "Edwardian Script ITC";
+	font-size: 30px;
+	text-align: center;}
+
+.parents_name {
+	font-family: "Youre Invited";
+	font-size: 40px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.parents_name_in_small {
+	font-family: "Youre Invited";
+	font-size: 20px;
+	text-align: center;
+}
+.normal-tex {
+	font-family: "Tex";
+	font-size: 30px;
+}
+@font-face {
+	font-family: "Youre Invited";
+	src: url("../assets/fonts/YoureInvitedHeavy.otf");
+}
+
+@font-face {
+	font-family: "Tex";
+	src: url("../assets/fonts/texgyrechorus-mediumitalic.otf");
+}
