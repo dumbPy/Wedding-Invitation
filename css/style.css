@@ -584,6 +584,7 @@ a {
 }
 
 .welcome {
+	margin-top: 60px;
 	font-family: "Edwardian";
 	font-size: 30px;
 	text-align: center;}
